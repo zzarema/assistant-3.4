@@ -2,9 +2,10 @@
 ##Bazarova Zarema, Zhalgassova Saniya,Seisekeyeva Dariga - SE-2321
 
 
+![image](https://github.com/user-attachments/assets/40368e12-87da-4d9e-9719-a98e575c3b3b)
 
-![Screenshot 1](screens/1.png)
-![Screenshot 2](screens/2.png)
+![image](https://github.com/user-attachments/assets/382a78d8-c369-4c6e-84c2-b081a15371b2)
+
 
 ##  Project Overview
 
