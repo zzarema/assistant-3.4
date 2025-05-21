@@ -1,5 +1,7 @@
 # AI Crypto Assistant – Gemini
-## Ulzhan Tamyzgazina SE-2325
+##Bazarova Zarema, Zhalgassova Saniya,Seisekeyeva Dariga - SE-2321
+
+
 
 ![Screenshot 1](screens/1.png)
 ![Screenshot 2](screens/2.png)
